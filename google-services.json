@@ -1,0 +1,251 @@
+{
+  "project_info": {
+    "project_number": "845484440157",
+    "project_id": "manavai-2adb5",
+    "storage_bucket": "manavai-2adb5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845484440157:android:c18c833714cbd9b9b9abb4",
+        "android_client_info": {
+          "package_name": "com.foodzyapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845484440157-9cmcijl0g93sf5dul482mfuqmbf27014.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foodzyapps",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "845484440157-a239qis7b6utrrvnamas68jfvf6rrnkg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foodzyapps",
+            "certificate_hash": "083098b7abca4ccc48f5da0df70d5a5de99fa0d4"
+          }
+        },
+        {
+          "client_id": "845484440157-es6rtkva9f8dr29difedgg5mu4vad48k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foodzyapps",
+            "certificate_hash": "2267483bb7117c48489624d448926f29be96ab8b"
+          }
+        },
+        {
+          "client_id": "845484440157-gft36os4qtj1secueh8ihch3dmp214su.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdw0u0A1xWbi1YLYQG1cEF_tHyQ3ki2Dw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845484440157-gft36os4qtj1secueh8ihch3dmp214su.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845484440157:android:810a935c5e2a40a1b9abb4",
+        "android_client_info": {
+          "package_name": "com.manavai.Manavai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845484440157-8c16glb2sqr4hjv5mjbdmukdk86k01gs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.manavai.Manavai",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "845484440157-9ladg7k6uucm6vqekvlb7bbqooao3v84.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.manavai.Manavai",
+            "certificate_hash": "f0c16e9a580be8724592af76bcc38064310a1524"
+          }
+        },
+        {
+          "client_id": "845484440157-ctje9eomq2ht8157i8nnpd3k00fvrmrt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.manavai.Manavai",
+            "certificate_hash": "5b952bc1b69a1baf0b9497b5172a3c8830a8022b"
+          }
+        },
+        {
+          "client_id": "845484440157-l1ob0hcjsckpnreges3gjg7vqvs3d0hj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.manavai.Manavai",
+            "certificate_hash": "a32d9d7ad2544fe81bdbc2e73cc2352fcc3cd980"
+          }
+        },
+        {
+          "client_id": "845484440157-ov89o2sehott40hbs0fl46slpmsi0g2e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.manavai.Manavai",
+            "certificate_hash": "3cdb27ee1e18ab5f6a9745b32bd3bad22607f60e"
+          }
+        },
+        {
+          "client_id": "845484440157-gft36os4qtj1secueh8ihch3dmp214su.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdw0u0A1xWbi1YLYQG1cEF_tHyQ3ki2Dw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845484440157-gft36os4qtj1secueh8ihch3dmp214su.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845484440157:android:b653946a88aeacbab9abb4",
+        "android_client_info": {
+          "package_name": "com.manavai.ManavaiDelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845484440157-iobh910tut26ntkfmjajgoqf0318v7eg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.manavai.ManavaiDelivery",
+            "certificate_hash": "5eeedf23e550a1c54835a916d6d3534d7ff4e20b"
+          }
+        },
+        {
+          "client_id": "845484440157-jpg5a9gsl9ono3rg04b68biqpnkmqi1r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.manavai.ManavaiDelivery",
+            "certificate_hash": "b54fe8c99d464fceae04d97104f82c15c926bdc6"
+          }
+        },
+        {
+          "client_id": "845484440157-rks8obko3ioi2e4q8i8avbh4sec3377e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.manavai.ManavaiDelivery",
+            "certificate_hash": "fbd9b230b48b0f5699eb9c0c1a3caf3105564f8e"
+          }
+        },
+        {
+          "client_id": "845484440157-gft36os4qtj1secueh8ihch3dmp214su.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdw0u0A1xWbi1YLYQG1cEF_tHyQ3ki2Dw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845484440157-gft36os4qtj1secueh8ihch3dmp214su.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845484440157:android:bfe1028a8d12230fb9abb4",
+        "android_client_info": {
+          "package_name": "com.manavaivendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845484440157-jnkdg1sjiqbci586n1u7e4ies957s51i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.manavaivendor",
+            "certificate_hash": "8f3ee4fa5b8fdf9a4312a09847452b7361eb4cbd"
+          }
+        },
+        {
+          "client_id": "845484440157-gft36os4qtj1secueh8ihch3dmp214su.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdw0u0A1xWbi1YLYQG1cEF_tHyQ3ki2Dw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845484440157-gft36os4qtj1secueh8ihch3dmp214su.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845484440157:android:4cb9f6fc5ce3dfd6b9abb4",
+        "android_client_info": {
+          "package_name": "com.tvk.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845484440157-gft36os4qtj1secueh8ihch3dmp214su.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdw0u0A1xWbi1YLYQG1cEF_tHyQ3ki2Dw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845484440157-gft36os4qtj1secueh8ihch3dmp214su.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

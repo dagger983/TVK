@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "MANAVAI TVK (V)",
+    "slug": "tvk",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/tvk-logo.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.tvk.app"
+    },
+    "android": {
+      "package": "com.tvk.app",
+      "googleServicesFile": "./google-services.json",
+      "adaptiveIcon": {
+        "backgroundColor": "#8B0000",
+        "foregroundImage": "./assets/tvk-logo.png"
+      },
+      "permissions": [
+        "ACCESS_FINE_LOCATION",
+        "ACCESS_COARSE_LOCATION"
+      ]
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-font",
+      "@react-native-google-signin/google-signin",
+      [
+        "expo-location",
+        {
+          "locationAlwaysAndWhenInUsePermission": "Allow MANAVAI TVK (V) to access your location to report public grievances accurately."
+        }
+      ]
+    ]
+  }
+}
